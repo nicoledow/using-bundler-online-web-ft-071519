@@ -1,7 +1,4 @@
-source 'https://rubygems.org'
-gem 'rspec'
-gem 'hashie'
-gem 'sinatra', '=1.4.4'
+source "https://rubygems.org"
 
 group :development do 
   gem "pry"
